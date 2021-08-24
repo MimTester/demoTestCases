@@ -30,9 +30,6 @@ def teardown_function(function): ## После каждого теста
 def test_DemoPositive(inputData):
     assert SO.inputValue(driver, meta, inputData) is True
 
-# setup_module(1)
-# test_DemoPositive("Test")
-
 
 # Отрицательные тесты
 @pytest.mark.parametrize("inputData",
