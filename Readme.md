@@ -1,6 +1,6 @@
 # Demo
 
-###Для запуска
+### Для запуска
 
 1. Установить python (https://www.python.org/downloads/)
 2. Установить pytest (pip install pytest)
