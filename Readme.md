@@ -8,4 +8,4 @@
 4. Скачать и установить хром (https://www.google.ru/chrome/)
 5. Выбрать и скачать хромдрайвер (https://chromedriver.chromium.org/downloads)
 6. Перейти в консоли в папку репозитория 
-7. ввести в консоли команду  pytest -v
+7. ввести в консоли команду python -m pytest -v
